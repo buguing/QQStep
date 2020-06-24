@@ -1,0 +1,12 @@
+<resources>
+
+    <declare-styleable name="DynamicArc">
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="innerColor" format="color"/>
+        <attr name="outerColor" format="color"/>
+        <attr name="centerTextSize" format="dimension"/>
+        <attr name="centerTextColor" format="color"/>
+        <attr name="maxStep" format="integer"/>
+    </declare-styleable>
+
+</resources>

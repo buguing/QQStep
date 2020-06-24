@@ -1,0 +1,2 @@
+rootProject.name='DynamicArc'
+include ':app'
